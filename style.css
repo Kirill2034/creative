@@ -537,10 +537,46 @@ a {
     }
 
     .skills {
-        padding-top: 200px;
+        padding-top: 450px;
+        padding-bottom: 400px;
     }
 
-    .scrollbar {
-        display: none;
+    .services {
+        padding-top: 450px;
+        padding-bottom: 450px;
+    }
+
+    .elementWrap {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 225px;
+    }
+
+    .element {
+        margin-bottom: 30px;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    .services {
+        padding-top: 500px;
+        padding-bottom: 510px;
+    }
+}
+
+
+@media screen and (max-width: 427px) {
+    .services {
+        padding-top: 570px;
+        padding-bottom: 580px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .services {
+        padding-top: 650px;
+        padding-bottom: 670px;
     }
 }
