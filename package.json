@@ -4,7 +4,7 @@
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
     "http-server": "^0.11.1",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "owl.carousel": "^2.3.4"
   }
 }
